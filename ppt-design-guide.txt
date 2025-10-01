@@ -1,0 +1,150 @@
+A Comprehensive Guide to Effective Presentation Design Patterns
+
+
+This guide outlines fundamental design principles and structural patterns—derived from both Western and Korean contexts—for creating high-impact, professional presentations.
+
+
+I. Structural Patterns and Rhetoric
+
+
+Effective presentations prioritize clear, logical organization to ensure the audience immediately grasps the main message.
+
+
+The Pyramid Principle (Western/Business Standard)
+
+
+The Pyramid Principle, developed by Barbara Minto, is the foundational standard in business and consulting for clear communication.1
+* Structure: Lead with the top-level conclusion (the answer) first, followed by supporting arguments (key facts/insights), and finally, detailed evidence (data/analysis).2
+* Application to Slides: Each slide title should act as an action title, stating the main takeaway or conclusion of that slide's content.2 This ensures the audience immediately understands the slide's purpose.5
+* Overall Anatomy: A well-structured deck typically includes a Title slide, an Agenda/Chapter list, clear Objectives, Main Content slides (following the principle above), and a Summary/Conclusion.6
+
+
+Contrast with Traditional Korean Rhetoric
+
+
+While the Pyramid Principle is a linear, conclusion-first approach (common in Western communication 7), traditional Korean academic discourse often follows the
+Ki-Sung-Chon-Kyul structure (Introduction, Development, Turn, Conclusion), which typically places the main point near the end.7 For international or business audiences, adopting the direct, conclusion-first method is generally recommended to avoid being perceived as vague or confusing.7
+
+
+II. Core Design Principles
+
+
+Two primary acronyms define visual simplicity and clarity: KISS and CRAP.
+
+
+The KISS Principle (Keep It Simple, Stupid)
+
+
+* Simplicity: The core goal is to avoid making things unnecessarily complicated.8 Use the minimal amount of parts and interactions to maintain reliable performance.9
+* Focus: Maintain only one clear idea or central message per slide.5 Iteratively remove or simplify any feature or element that does not have a significant purpose or solve a user's need.9
+
+
+The CRAP Principles
+
+
+These principles guide the aesthetic arrangement of visual elements.10
+
+
+Principle
+	Guideline
+	Contrast
+	Use differences in color, size, or font to emphasize certain things and make elements prominent.10 High contrast (e.g., dark text on a light background) is essential for visibility.11
+	Repetition
+	Repeat graphical elements, such as branded shapes or logos, to create a consistent pattern and reinforce brand identity throughout the presentation.10
+	Alignment
+	Use a consistent alignment to make the design well-presentable and orderly.10 Aligning text to a single axis (e.g., justify left) is preferred for Western reading patterns.13
+	Proximity
+	Group similar items together in the design to suggest they are related to each other.10
+	
+
+III. Visual Design and Layout
+
+
+
+
+Information Density
+
+
+Aim for low information density to reduce the cognitive effort required by the audience.15 Information density is measured by
+word count and the number of information chunks (distinct content groups) on a slide.15
+* Text Limit: Keep text at a minimum, using short sentences. Use three to five bullet points per slide maximum.16
+* Time Allocation: Plan to spend approximately one minute per slide.5
+
+
+Typography
+
+
+Typography must prioritize readability and visibility.
+* Font Selection: Use Sans Serif fonts (like Helvetica or Century Gothic) for better readability on screen.17 Stick to a maximum of
+two complementary fonts—one for headers and one for body text—for consistency.6
+* Readability: Ensure the content is large enough for the last row to see.6 Use a
+30-point minimum font size.6
+* Avoidances: Do not use broken, highly decorative, or complicated fonts.16 Avoid underlining text, as it can be confused with a hyperlink.18
+
+
+Layout and Consistency
+
+
+   * Grid System: Utilize a grid system (e.g., a 12-column grid for a 16:9 widescreen format) to easily create alignment, balance, and consistency across all slides.19 Use custom guides in PowerPoint to define margins and key content areas.19
+   * Visual Hierarchy: Use elements like size, color, and contrast to ensure that the most important information is noticed first, guiding the audience's attention logically.14
+
+
+IV. Data Visualization
+
+
+Data must be presented clearly and concisely, maximizing the audience's understanding.
+   * Data-Ink Ratio: Maximize the proportion of ink used to display non-redundant data information.22 Simplify charts by removing non-essential visual "noise".22
+   * Chart Selection: Choose the chart type that best illustrates your point.23
+   * Change Over Time/Comparison: Use Bar Charts or Line Graphs for comparing categories or showing evolution over time.23
+   * Proportion: Use Bar or Pie Charts to show a partial value compared to a total.24
+Avoid using multiple pie charts to show change over time, as it is difficult to compare slice sizes.24
+      * Color Use in Data: Use color intentionally to support the message: use red for negative data points and green or blue for positive data points, with neutral colors for context.11
+      * Data Limit: Limit content to a single key statistic or finding per slide for maximum impact and memorability.6
+
+
+V. Common Anti-Patterns to Avoid
+
+
+Avoiding these mistakes is as critical as following the best practices.25
+
+
+Anti-Pattern
+	Description
+	Death by PowerPoint
+	Overloading slides with excessive text or whole blocks of text.16 The audience will read the slide instead of listening to the speaker.25
+	Overuse of Effects
+	Using too many wacky transition effects (e.g., 'Random' transitions) distracts the audience from the message.16 Stick to simple transitions like 'wipe' or 'slide'.26
+	Speaker-as-Reader
+	Merely reading the bullet points on the slide. The slide should complement the speaker, not repeat them word-for-word.25
+	Irrelevant Visuals
+	Using low-resolution or irrelevant images.16 Every graphic should be used effectively to deliver the central objective.5
+	Clutter
+	Overdoing bullet points, using too many charts, or making alignment errors.18 This creates visual chaos and overwhelms the audience.18
+	참고 자료
+      1. The Pyramid Principle Applied | Consulting Concepts & Resources, 10월 1, 2025에 액세스, https://managementconsulted.com/pyramid-principle/
+      2. Learn the Pyramid Principle for PowerPoint presentations - think-cell, 10월 1, 2025에 액세스, https://www.think-cell.com/en/resources/content-hub/using-the-pyramid-principle-to-build-better-powerpoint-presentations
+      3. Guide to Presenting Using the Pyramid Principle - SlideModel, 10월 1, 2025에 액세스, https://slidemodel.com/presenting-using-the-pyramid-principle/
+      4. The Pyramid Principle: What It Is & How to Use It + Example - My Consulting Offer, 10월 1, 2025에 액세스, https://www.myconsultingoffer.org/case-study-interview-prep/pyramid-principle/
+      5. Ten simple rules for effective presentation slides - PMC - PubMed Central, 10월 1, 2025에 액세스, https://pmc.ncbi.nlm.nih.gov/articles/PMC8638955/
+      6. How to Structure a PowerPoint Presentation - iSpring Solutions, 10월 1, 2025에 액세스, https://www.ispringsolutions.com/blog/how-to-structure-a-powerpoint-presentation
+      7. Nature or Nurture in English Academic Writing: Korean and American Rhetorical Patterns - BYU ScholarsArchive, 10월 1, 2025에 액세스, https://scholarsarchive.byu.edu/cgi/viewcontent.cgi?article=7624&context=etd
+      8. Simplicity in Design: The KISS Principle Explained PowerPoint Presentation - SlideServe, 10월 1, 2025에 액세스, https://www.slideserve.com/larrychill/kiss-principle-powerpoint-ppt-presentation
+      9. Design Principles: KISS the Feature Creep | Marvel Blog, 10월 1, 2025에 액세스, https://marvelapp.com/blog/design-principles-kiss-feature-creep/
+      10. CRAP Design Principles PowerPoint Template - SlideModel, 10월 1, 2025에 액세스, https://slidemodel.com/templates/crap-design-principles-powerpoint-template/
+      11. Defining a Presentation Color Palette - Superchart, 10월 1, 2025에 액세스, https://www.superchart.io/blog/presentation-color-palette
+      12. Data Visualizations, Charts, and Graphs - Harvard's Digital Accessibility, 10월 1, 2025에 액세스, https://accessibility.huit.harvard.edu/data-viz-charts-graphs
+      13. 10 Rules To Help You Rule Typography - The Futur, 10월 1, 2025에 액세스, https://www.thefutur.com/content/typography-rules
+      14. What is Visual Hierarchy? — updated 2025 | IxDF - The Interaction Design Foundation, 10월 1, 2025에 액세스, https://www.interaction-design.org/literature/topics/visual-hierarchy
+      15. Information Density Is the Key to Smarter Slide Decks, 10월 1, 2025에 액세스, https://www.andrewquagliata.com/post/information-density-is-the-key-to-smarter-slide-decks
+      16. Presentation Survival Guide : What You Need to Know | Blog - Design Pickle, 10월 1, 2025에 액세스, https://designpickle.com/creative-hub/presentation-design/presentation-dos-and-donts-what-you-need-to-know
+      17. 11 Rules for Better Presentation Typography - Nolan Haims Creative, 10월 1, 2025에 액세스, https://www.nolanhaimscreative.com/blog/201111711-rules-for-better-presentation-typography-html-6e9nx
+      18. The Do's And Dont's In A Presentation | SlideCEO, 10월 1, 2025에 액세스, https://www.slideceo.com/the-dos-and-donts-in-a-presentation/
+      19. Advanced PowerPoint grids and guides - BrightCarbon, 10월 1, 2025에 액세스, https://www.brightcarbon.com/blog/advanced-powerpoint-grids-guides/
+      20. Work with gridlines and use snap-to-grid in PowerPoint - Microsoft Support, 10월 1, 2025에 액세스, https://support.microsoft.com/en-gb/office/work-with-gridlines-and-use-snap-to-grid-in-powerpoint-84ed7394-5b37-4326-b13d-60fbc845e096
+      21. 8 Proven Visual Hierarchy Examples To Make Your Presentations Stand Out! - SlideUpLift, 10월 1, 2025에 액세스, https://slideuplift.com/blog/8-proven-visual-hierarchy-examples-to-make-your-presentations-stand-out/
+      22. Maximizing the Data-Ink Ratio in Dashboards and Slide Decks | by Plotly - Medium, 10월 1, 2025에 액세스, https://medium.com/plotly/maximizing-the-data-ink-ratio-in-dashboards-and-slide-deck-7887f7c1fab
+      23. Data Visualization Tips and Best Practices - Tableau, 10월 1, 2025에 액세스, https://www.tableau.com/visualization/data-visualization-best-practices
+      24. Data visualization - Material Design 2, 10월 1, 2025에 액세스, https://m2.material.io/design/communication/data-visualization.html
+      25. Bad PowerPoint Examples You Should Avoid at All Costs, 10월 1, 2025에 액세스, https://24slides.com/presentbetter/bad-powerpoint-examples-you-should-avoid
+      26. Common mistakes to avoid when making a PowerPoint presentation, 10월 1, 2025에 액세스, https://www.accgov.com/DocumentCenter/View/64691/Common-mistakes-to-avoid-when-making-a-PPT
+      27. Anti-Patterns in Presentations - Martin Ueding, 10월 1, 2025에 액세스, https://martin-ueding.de/posts/anti-patterns-in-presentations/
